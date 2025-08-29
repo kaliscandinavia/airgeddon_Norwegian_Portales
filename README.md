@@ -4,7 +4,7 @@
 - Kred'n går til xpz3 & OscarAkaElvis for inspirasjon og
   og kode-fix'et som gjør dette enkelt og mulig.
 - https://github.com/xpz3/airgeddonplugins
-- 
+  
  ![uk Image](uk.png)    ![us Image](us.png)   
 
 - Asus, Cisco, D-Link, Zyxel ,and Google portales in norwegian.
