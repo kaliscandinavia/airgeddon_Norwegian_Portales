@@ -1,4 +1,4 @@
-# airgeddon_portales på norsk/in norwegian.English too in "repositorys".
+# airgeddon_portales på norsk/in norwegian.English too in "repositories".
 - Asus, Cisco, D-Link, Zyxel og Google-portaler på norsk.
 - git clone og copy-past til customporals-folderen.
 - Kred'n går til xpz3 & OscarAkaElvis for inspirasjon og
