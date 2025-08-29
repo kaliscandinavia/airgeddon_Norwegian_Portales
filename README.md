@@ -1,13 +1,14 @@
 # airgeddon_portales på norsk/in norwegian.English too in "repositories".
-- Asus, Cisco, D-Link, Zyxel og Google-portaler på norsk.
+- Asus, Cisco, D-Link, TP-Link, Zyxel og Google-portaler på norsk.
 - git clone og copy-past til customporals-folderen.
 - Kred'n går til xpz3 & OscarAkaElvis for inspirasjon og
-  og kode-fix'et som gjør dette enkelt og mulig.
+ - og kode-fix'et som gjør dette enkelt og mulig.
 - https://github.com/xpz3/airgeddonplugins
   
  ![uk Image](uk.png)    ![us Image](us.png)   
 
-- Asus, Cisco, D-Link, Zyxel ,and Google portales in norwegian.
+- Asus, Cisco, D-Link,TP-Link, Zyxel ,and Google portales in norwegian.
 - git clone and copy folders to airgeddon customportals folder.
-- Cred goto xpz3 & OscarAkaElvis & for inspirasjon and code-fix    whitch make this easy and possible TODO.
+- Cred goto xpz3 & OscarAkaElvis & for inspirasjon and code-fix
+-  whitch make this easy and possible TODO.
 - https://github.com/xpz3/airgeddonplugins
